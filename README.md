@@ -6,13 +6,23 @@ Hybrid Metaheuristic GA-PSO Algorithm" by Hsu-Chih Huang and Ching-Chih Tsai.
 The program was writen for the "Artificial Intelligence and Expert Systems"
 course. This course is part of the "MSc in Computer Science" program in University of Piraeus.
 
-#### todo:
+## Instructions
+- If not already installed, install the library [PyGame Library] (http://www.pygame.org/news.html)
+- Place all the source files in the same directory.
+- If under Windows OS:
+    - Open __main__.py with IDLE and run it
+- If under UNIX-like system:
+    - Open a terminal
+    - Move to the proper directory
+    - Run the program with `python __main__.py`
+
+#### TODO
 - Allow the user to select the starting and goal position
 - Allow the user to switch between other searching algorithms
 
 ## License
 
-MIT License
+[MIT License] (http://opensource.org/licenses/MIT)
 
 Copyright (c) 2014 Kiriakos Velissariou
 
