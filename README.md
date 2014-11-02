@@ -10,7 +10,7 @@ course. This course is part of the "MSc in Computer Science" program in Universi
 - If not already installed, install the library [PyGame Library] (http://www.pygame.org/news.html)
 - Place all the source files in the same directory.
 - If under Windows OS:
-    - Open __main__.py with IDLE and run it
+    - Open `__main__.py` with IDLE and run it
 - If under UNIX-like system:
     - Open a terminal
     - Move to the proper directory
