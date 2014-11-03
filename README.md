@@ -7,7 +7,7 @@ The program was writen for the "Artificial Intelligence and Expert Systems"
 course. This course is part of the "MSc in Computer Science" program in University of Piraeus.
 
 ## Instructions
-- If not already installed, install the library [PyGame Library] (http://www.pygame.org/news.html)
+- If not already installed, install the [PyGame Library] (http://www.pygame.org/news.html)
 - Place all the source files in the same directory.
 - If under Windows OS:
     - Open `__main__.py` with IDLE and run it
